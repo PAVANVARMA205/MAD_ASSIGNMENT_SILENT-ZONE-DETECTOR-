@@ -1,4 +1,4 @@
-✅ What is a Silent Zone Detector?
+ What is a Silent Zone Detector?
 
 A Silent Zone Detector is a mobile application that automatically detects when the user enters a specific location (zone)—like a library, classroom, hospital, meeting room, temple, or office—and switches the phone to silent mode without any manual action.
 It uses:
@@ -6,36 +6,36 @@ GPS location
 Geofencing
 Phone’s sound profile control
 
-This ensures that the phone does not ring loudly in places where silence is required.
+This ensures that the phone does not ring loudly in places where silence is required
 
-✅ Why is a Silent Zone Detector important?
-⭐ 1. Prevents disturbance
+Why is a Silent Zone Detector important?
+  1. Prevents disturbance
 In many public places, even one loud phone ring can disturb everyone.
 The app prevents accidental ringing and helps maintain a peaceful environment.
 
-⭐ 2. Useful for students
+ 2. Useful for students
 In classrooms, labs, libraries — phones ringing causes distraction and often embarrassment.
 Silent Zone Detector mutes the phone automatically.
 
-⭐ 3. Useful in hospitals & offices
+ 3. Useful in hospitals & offices
 Hospitals require a quiet environment for patients, and offices need silence for meetings.
 The app ensures the phone won’t ring at the wrong time.
 
-⭐ 4. Saves time & effort
+ 4. Saves time & effort
 People often forget to switch their phone to silent mode.
 The app handles it automatically — no need to remember.
 
-⭐ 5. Improves discipline and professionalism
+5. Improves discipline and professionalism
 Automatic silent mode makes the user appear:
 more responsible
 more organized
 more professional
 
-⭐ 6. Avoids embarrassment
+ 6. Avoids embarrassment
 Many people forget to silence their phone before meetings or classes.
 This app saves them from awkward situations.
 
-✅ How does the Silent Zone Detector work? (Simple Explanation)
+ How does the Silent Zone Detector work? (Simple Explanation)
 Step 1 — User adds a Silent Zone
 
 The user selects:
@@ -56,29 +56,29 @@ Turns vibration ON or OFF (depending on setting)
 Step 4 — If user exits the Silent Zone
 The phone’s sound settings return to normal.
 
-✅ Real-life examples where Silent Zone Detector is useful
-🏫 Educational Places
+ Real-life examples where Silent Zone Detector is useful
+Educational Places
 Classroom
 Library
 Seminar halls
 Labs
 
-🏥 Hospitals
+ Hospitals
 ICU
 OPD waiting rooms
 Recovery wards
 
-📊 Corporate Offices
+Corporate Offices
 Meeting rooms
 Conference halls
 Training rooms
 
-🙏 Religious Places
+ Religious Places
 Temples
 Mosques
 Churches
 
-🏛 Public Places
+ Public Places
 Museums
 Auditoriums
 Theatres
