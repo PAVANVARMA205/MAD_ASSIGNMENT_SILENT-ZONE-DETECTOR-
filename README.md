@@ -86,7 +86,14 @@ Theatres
 
 *APP INTERFACES*
 
-<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/90ef7bdf-7d44-44e3-9d9b-784a3c5e3ad8" />
-<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/177a6652-d844-40f8-af08-ed7a667fbd5f" />
-<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/fd237c3f-7276-4f60-b929-28132b117eb7" />
-<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/d4b1a6f6-db00-4dc5-8422-f40aad63512e" />
+ADD ZONE:
+
+![WhatsApp Image 2025-11-26 at 18 07 17_fc067bee](https://github.com/user-attachments/assets/f5d687dd-c2d0-4ab6-803e-6c9c5ec7f868)
+
+ENTER THE ZONE NAME AND METERS:
+
+![WhatsApp Image 2025-11-26 at 18 07 18_02f43dfa](https://github.com/user-attachments/assets/a89ac1e5-3062-48a8-a052-06e2770bc72f)
+
+SAVES ZONES:
+
+![WhatsApp Image 2025-11-26 at 18 07 18_0e98099c](https://github.com/user-attachments/assets/6235e775-b49c-47c2-bfc1-43b0805ad377)
